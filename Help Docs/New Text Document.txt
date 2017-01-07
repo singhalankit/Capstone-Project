@@ -1,0 +1,8 @@
+D21j3zXmboWioyWvMWLZUAlIY179gJLDqJolBqsu
+
+
+https://api.data.gov/nrel/alt-fuel-stations/v1/nearest.json?api_key=D21j3zXmboWioyWvMWLZUAlIY179gJLDqJolBqsu&location=Denver+CO
+
+
+
+http://api.nal.usda.gov/ndb/reports/?ndbno=09003&type=b&format=xml&api_key=D21j3zXmboWioyWvMWLZUAlIY179gJLDqJolBqsu
